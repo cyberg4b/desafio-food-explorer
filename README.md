@@ -50,7 +50,7 @@ Clone o projeto para seu computador:
 
 ```bash
 # Navegue até o diretório do BackEnd
-    $ cd food-explorer-backend
+    $ cd backend
 
 # Instale as dependências necessárias
     $ npm install
@@ -64,7 +64,7 @@ Clone o projeto para seu computador:
 
 ```bash
 # Navegue até o diretório do FrontEnd
-    $ cd food-explorer-frontend
+    $ cd frontend
 
 # Instale as dependências necessárias
     $ npm install
