@@ -1,4 +1,3 @@
-
 # 🍲 Food Explorer
 
 Food Explorer é um projeto desenvolvido para conclusão da jornada **Explorer** oferecido pela Rocketseat.
