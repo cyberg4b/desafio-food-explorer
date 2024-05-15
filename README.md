@@ -42,7 +42,7 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 Clone o projeto para seu computador:
 
 ```bash
-    $ git clone https://github.com/progmesquita/desafio-food-explorer
+    $ git clone https://github.com/cyberg4b/desafio-food-explorer
 ```
 
 ### 👨‍💻 Executando o BackEnd
